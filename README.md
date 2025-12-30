@@ -1,5 +1,5 @@
 # image-rescaling-svd-vs-bicubic-python
-# Image Rescaling Using SVD and Bicubic Interpolation
+
 
 ## Project Type
 Image Processing / Linear Algebra / Scientific Computing
